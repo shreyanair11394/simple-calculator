@@ -1,5 +1,6 @@
 # simple-calculator
 HTML, CSS, JAVASCRIPT based simple caculator
+
 Concepts Covered:
  
 - How to use ES6 classes to organize code
